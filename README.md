@@ -1,6 +1,5 @@
 ### Saludos!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francogarcia02&hide=html&theme=radical&title_color=blue&layout=compact)
 
 
 
