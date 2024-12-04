@@ -4,7 +4,7 @@
 ## 🛠️ Technologies & Tools
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express
-- **Database**: MongoDB, MySQL
+- **Database**: MySQL
 
 
 ## 📊 GitHub Stats
