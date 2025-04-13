@@ -2,9 +2,10 @@
 ### 🌐 Web Developer | 🚀 Passionate about building great experiences
 
 ## 🛠️ Technologies & Tools
-- **Frontend**: HTML, CSS, JavaScript, React
+- **Languages**: JavaScript, TypeScript, Python
+- **Frontend**: Next, React, HTML, CSS
 - **Backend**: Node.js, Express
-- **Database**: MySQL
+- **Database**: MySQL, SQLite
 
 
 ## 📊 GitHub Stats
