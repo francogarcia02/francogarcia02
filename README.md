@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Franco Garcia!
-### 🌐 Web Developer | 🚀 Passionate about building great experiences
+### 🌐 FullStack Developer | 🚀 Passionate about building great experiences
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, TypeScript, Python
