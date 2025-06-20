@@ -2,7 +2,7 @@
 ### 🌐 FullStack Developer | 🚀 Passionate about building great experiences
 
 ## 🛠️ Technologies & Tools
-- **Languages**: JavaScript, TypeScript, Python
+- **Languages**: JavaScript, TypeScript, Python, Java
 - **Frontend**: Next, React, HTML, CSS
 - **Backend**: Node.js, Express
 - **Database**: MySQL, SQLite
